@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Murad | AI Automation & SaaS Developer
+# 🚀 GmsDev | AI Automation & SaaS Developer
 
 Building AI tools, Telegram bots, SaaS platforms, and automation systems.
 
