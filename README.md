@@ -75,7 +75,7 @@ Tech:
 # 📡 Contact
 
 - Telegram: https://t.me/gmsdev55
-- Portfolio: https://landing-edx.pages.dev
+- Portfolio: https://gmsdev.dev
 
 ---
 
