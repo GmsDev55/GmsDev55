@@ -74,8 +74,7 @@ Tech:
 
 # 📡 Contact
 
-- Telegram: https://t.me/coin55dev
-- Fiverr: https://www.fiverr.com/coin55
+- Telegram: https://t.me/gmsdev55
 - Portfolio: https://landing-edx.pages.dev
 
 ---
